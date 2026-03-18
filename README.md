@@ -61,27 +61,6 @@ Me apasiona crear aplicaciones web, APIs REST y sistemas reales aplicando buenas
 
 ---
 
-## 📊 Estadísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frankmg03&show_icons=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankmg03&layout=compact"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankmg03"/>
-</p>
-
----
-
-## ⚡ Actividad reciente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frankmg03"/>
-</p>
-
----
 
 ## 📚 Actualmente aprendiendo
 
