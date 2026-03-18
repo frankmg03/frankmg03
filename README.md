@@ -41,15 +41,6 @@ Me apasiona crear aplicaciones web, APIs REST y sistemas reales aplicando buenas
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
-## 🏆 Logros GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frankmg03&theme=algolia&no-frame=true&row=1"/>
-</p>
-
----
 
 ## 📂 Proyectos Destacados
 
