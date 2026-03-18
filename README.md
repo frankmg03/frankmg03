@@ -2,8 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=FrankMG03%20-%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Junior;Vue.js+%7C+Python+%7C+APIs+REST;Cybersecurity+Student;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=frankmg03&label=Profile%20views&color=0ea5e9&style=flat" />
+</p>
+
+---
+
 <h1 align="center">👋 Hola, soy Francisco Garcia</h1>
-<h3 align="center">💻 Full Stack Developer Junior | Vue.js • Python • APIs REST</h3>
+<h3 align="center">💻 Desarrollador Full Stack Junior</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="250"/>
@@ -17,11 +27,9 @@
 🔐 Actualmente cursando un diplomado en Ciberseguridad.  
 🌎 Buscando oportunidades remotas como desarrollador junior.
 
-Me apasiona crear aplicaciones web funcionales, APIs y sistemas reales que resuelvan problemas.
+Me apasiona crear aplicaciones web, APIs REST y sistemas reales aplicando buenas prácticas de desarrollo.
 
 ---
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 🧠 Tecnologías
 
@@ -31,6 +39,14 @@ Me apasiona crear aplicaciones web funcionales, APIs y sistemas reales que resue
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 Logros GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=frankmg03&theme=algolia&no-frame=true&row=1"/>
 </p>
 
 ---
@@ -54,9 +70,7 @@ Me apasiona crear aplicaciones web funcionales, APIs y sistemas reales que resue
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frankmg03&show_icons=true"/>
@@ -66,6 +80,14 @@ Me apasiona crear aplicaciones web funcionales, APIs y sistemas reales que resue
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankmg03"/>
+</p>
+
+---
+
+## ⚡ Actividad reciente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frankmg03"/>
 </p>
 
 ---
@@ -86,6 +108,9 @@ Me apasiona crear aplicaciones web funcionales, APIs y sistemas reales que resue
 
 ---
 
-<p align="center">
-⭐ "Siempre aprendiendo y construyendo proyectos reales."
-</p>
+## 🏴‍☠️ Developer Philosophy
+
+> "Like Luffy searching for the One Piece,  
+> I keep learning and improving every day to become a better developer."
+
+⚓ Never stop learning.
